@@ -6,7 +6,7 @@
 ## 🚀 **Crafting Digital Magic**
 
 ⚡ **I turn coffee into code** ☕→💻  
-🎥 **Educating through [YouTube](https://youtube.com/@your-channel)** 📈 *(Python | Full-Stack | DevOps)*  
+🎥 **Educating through [YouTube](https://www.youtube.com/@RNetWakanda)** 📈 *(Python | Full-Stack | DevOps)*  
 🌱 **Currently brewing:** Next-gen AI applications 🤖 + Interactive coding tutorials 🎮
 
 ---
